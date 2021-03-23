@@ -3,11 +3,27 @@
     "displayName": "Velvet Cupcake",
     "description": "A velvet-cupcake theme for VSCode",
     "version": "0.0.1",
+    "author": "Fahad Ashraf Chaudhry",
+    "publisher": "fahadachaudhry",    
     "engines": {
         "vscode": "^1.54.0"
     },
     "categories": [
         "Themes"
+    ],
+    "galleryBanner": {
+      "color": "#14161c",
+      "theme": "dark"
+    },    
+    "keywords": [
+      "Velvet",
+      "Cupcake",
+      "Dark Theme",
+      "Candy",
+      "Flat Theme",
+      "terminal", 
+      "color-theme",
+      "VSCode Power User"
     ],
     "contributes": {
         "themes": [
@@ -17,5 +33,9 @@
                 "path": "./themes/Ramona Theme-color-theme.json"
             }
         ]
-    }
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/fahadachaudhry/valvet-cupcake-vscode-theme"
+    }    
 }
