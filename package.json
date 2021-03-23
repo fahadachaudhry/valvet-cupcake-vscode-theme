@@ -1,0 +1,21 @@
+{
+    "name": "velvet-cupcake-theme",
+    "displayName": "Velvet Cupcake",
+    "description": "A velvet-cupcake theme for VSCode",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Velvet Cupcake",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Ramona Theme-color-theme.json"
+            }
+        ]
+    }
+}
