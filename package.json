@@ -1,6 +1,6 @@
 {
     "name": "velvet-cupcake-theme",
-    "displayName": "Velvet Cupcake",
+    "displayName": "Red Velvet Cupcake",
     "description": "A velvet-cupcake theme for VSCode",
     "version": "1.0.3",
     "author": "Fahad Ashraf Chaudhry",
@@ -29,7 +29,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Velvet Cupcake",
+                "label": "Red Velvet Cupcake",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Ramona Theme-color-theme.json"
             }
